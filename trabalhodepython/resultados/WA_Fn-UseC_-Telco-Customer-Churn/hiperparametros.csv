@@ -1,0 +1,4 @@
+Modelo,Hiperparâmetros,AP médio no CV (treino),AP na validação
+Regressão Logística,"{'clf__C': 10, 'clf__class_weight': None}",0.666989092737906,0.6428260618199388
+Random Forest,"{'clf__max_depth': 10, 'clf__min_samples_leaf': 3, 'clf__n_estimators': 300}",0.6702743648647506,0.6364172201324356
+Gradient Boosting,"{'clf__l2_regularization': 1.0, 'clf__learning_rate': 0.05, 'clf__max_depth': 3}",0.6721983672825703,0.6426147877725329

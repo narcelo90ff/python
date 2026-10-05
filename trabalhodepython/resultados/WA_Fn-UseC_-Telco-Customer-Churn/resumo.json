@@ -1,0 +1,17 @@
+{
+  "dominio": "WA_Fn-UseC_-Telco-Customer-Churn",
+  "classe_positiva": "Yes",
+  "melhor_modelo": "Regressão Logística",
+  "hiperparametros": {
+    "clf__C": "10",
+    "clf__class_weight": "None"
+  },
+  "limiar_metricas": 0.5,
+  "t1": 0.01,
+  "t2": 0.82,
+  "shap_saida_explicada": "log-odds da classe positiva",
+  "shap_n_instancias_teste": 500,
+  "n_treino": 4225,
+  "n_val": 1409,
+  "n_teste": 1409
+}
