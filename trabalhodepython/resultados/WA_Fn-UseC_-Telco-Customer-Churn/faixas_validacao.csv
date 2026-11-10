@@ -1,4 +1,0 @@
-Faixa,Instâncias,% da população (de N),Positivos,Negativos,% positivos na faixa (de instâncias da faixa),% negativos na faixa (de instâncias da faixa)
-Negativa automática (p < t1),159,11.28459900638751,3,156,1.8867924528301887,98.11320754716981
-Análise manual (t1 <= p < t2),1246,88.43151171043293,367,879,29.454253611556982,70.54574638844302
-Positiva automática (p >= t2),4,0.28388928317955997,4,0,100.0,0.0
